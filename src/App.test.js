@@ -8,4 +8,7 @@ test('renders learn react link', () => {
 
 
   console.log("abcd");
+
+  console.log("abcd");
+
 });
