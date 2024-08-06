@@ -4,6 +4,10 @@
 
 In the project directory, you can run:
 
-###  `github 관련`
+###  `github 명령어 정리`
 
-## 깃허브 관련 가이드 문서
+git --help   => git 관련 help
+
+
+
+
