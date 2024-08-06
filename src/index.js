@@ -16,4 +16,6 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-console.log("1234");
+console.log("");
+console.log("asdasd");
+console.log(`현범 커밋 test`);
