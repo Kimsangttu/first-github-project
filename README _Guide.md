@@ -6,8 +6,7 @@ In the project directory, you can run:
 
 ###  `github 명령어 정리`
 
-git --help   => git 관련 help
-
+* git --help
 
 
 
