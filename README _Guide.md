@@ -7,6 +7,7 @@ In the project directory, you can run:
 ###  `github 명령어 정리`
 
 * git --help
-
-
-
+test
+* git add . 
+* 
+ git 
